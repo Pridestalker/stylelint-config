@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "My personal stylelint config",
   "publishConfig": {
-    "public": true
+    "access": "public"
   },
   "peerDependencies": {
     "stylelint": "^13.1.0"
